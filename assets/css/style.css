@@ -83,18 +83,29 @@ h1 {
   text-align: center;
   background-color: #ef8172;
   color: #fff;
-  }
+}
   
-  .testimonial-image {
+.testimonial-image {
   width: 10%;
   border-radius: 100%;
   margin: 20px;
-  }
+}
   
-  .carousel-item {
+.carousel-item {
   padding: 7% 15%;
-  }
+}
 
+/* Press */
+#press {
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
 
 
 
