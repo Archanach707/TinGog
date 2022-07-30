@@ -1,10 +1,13 @@
 /******** Main Reset ********/
+body {
+  font-family: 'Montserrat';
+}
 
 #navigation {
   background-color: #ff4c68;
 }
 
-.navbar .navbar-brand {
+.navbar .logo {
   color: #fff;
 }
 
