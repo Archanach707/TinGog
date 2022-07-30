@@ -1,0 +1,9 @@
+/******** Main Reset ********/
+
+body {
+  padding: 0;
+}
+
+.container-fluid {
+  background-color: red;
+}
