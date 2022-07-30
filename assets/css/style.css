@@ -21,7 +21,6 @@ h1 {
 }
 
 /* Navbar */
-
 #navbarNavAltMarkup {
   justify-content: right;
 }
@@ -44,7 +43,6 @@ h1 {
 }
 
 /* Title */
-
 .heading {
   color: #fff;
 }
@@ -60,3 +58,29 @@ h1 {
   width: 60%;
   transform: rotate(25deg);
 }
+
+/* Features */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 4.5%;
+}
+
+.icons {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icons:hover {
+  color: #ff4c68;
+}
+
+
+
+
+
+
+
