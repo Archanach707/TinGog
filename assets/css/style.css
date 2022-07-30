@@ -1,6 +1,15 @@
 /******** Main Reset ********/
 body {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 900;
+  letter-spacing: 2px;
 }
 
 #header {
@@ -17,6 +26,10 @@ body {
   justify-content: right;
 }
 
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
 #header .logo {
   font-family: 'Ubuntu';
   font-size: 2.5rem;
@@ -28,4 +41,16 @@ body {
   padding: 0 24px;
   font-size: 1.2rem;
   color: #fff;
+}
+
+/* Title */
+
+.heading {
+  color: #fff;
+}
+
+/* Download Button */
+.download-button,
+.download-button .icon {
+  margin: 5% 3% 5% 0;
 }
