@@ -1,9 +1,17 @@
 /******** Main Reset ********/
 
-body {
-  padding: 0;
+#navigation {
+  background-color: #ff4c68;
 }
 
-.container-fluid {
-  background-color: red;
+.navbar .navbar-brand {
+  color: #fff;
+}
+
+.navbar-nav.navigation .nav-link {
+  color: #fff;
+}
+
+#navbarNavAltMarkup {
+  justify-content: right;
 }
